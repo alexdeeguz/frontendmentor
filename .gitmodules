@@ -1,0 +1,18 @@
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/alexdeeguz/frontendmentor_interactive-rating-component.git
+[submodule "invoice-app"]
+	path = invoice-app
+	url = https://github.com/alexdeeguz/frontendmentor_invoice-app.git
+[submodule "kanban-app"]
+	path = kanban-app
+	url = https://github.com/alexdeeguz/frontendmentor_kanban.git
+[submodule "product-preview-card-component"]
+	path = product-preview-card-component
+	url = https://github.com/alexdeeguz/frontendmentor_product-preview-card.git
+[submodule "qr-code-component"]
+	path = qr-code-component
+	url = https://github.com/alexdeeguz/frontendmentor_qr-code-component.git
+[submodule "single-price-grid-component"]
+	path = single-price-grid-component
+	url = https://github.com/alexdeeguz/frontendmentor_single-price-grid-component.git
